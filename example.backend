@@ -1,0 +1,7 @@
+resource_group_name  = ""
+storage_account_name = ""
+container_name       = ""
+key                  = ""
+
+# define in an 'env.azurerm.tfbackend' file
+# terraform init -backend-config="dev.azurerm.backend"
